@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 ### Hey there!
 
-<a href="https://www.linkedin.com/in/anwesan-de-66913a1ab/">
-  <img align="left" alt="Anwesan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="www.linkedin.com/in/vibgreon">
+  <img align="left" alt="Vivek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=vibgreon.vibgreon)
