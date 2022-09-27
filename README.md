@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.glitch.me/badge?page_id=vibgreon.vibgreon)
 
 
-Hi, i'm Vivek Venkatesh, 
+Hi, I'm Vivek Venkatesh, 
 
 I love learning and applying Machine Learning models and algorithms.
 
