@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hey there 
+### Hey there!
 
 <a href="https://www.linkedin.com/in/anwesan-de-66913a1ab/">
   <img align="left" alt="Anwesan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
