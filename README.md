@@ -1,5 +1,5 @@
 <div align="center">
-### Hi there 👋
+<h2> Hi there 👋 </h2>
 </div>
 
 [![@vibgreon's Holopin board](https://holopin.io/api/user/board?user=vibgreon)](https://holopin.io/@vibgreon)
