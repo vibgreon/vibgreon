@@ -42,3 +42,7 @@ I love learning and applying Machine Learning models and algorithms.
 | Github Language Preferences | Github Stats |
 |--------------|---------------|
 |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vibgreon&show_icons=true&theme=dark) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vibgreon&show_icons=true&theme=dark)  |
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?color=0969da&style=flat-square&username=vibgreon" />
+</p>
