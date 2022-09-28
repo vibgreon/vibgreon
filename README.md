@@ -20,8 +20,10 @@ Here are some ideas to get you started:
   <img align="left" alt="Vivek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=vibgreon.vibgreon)
-
+<img src="https://komarev.com/ghpvc/?color=0969da&style=flat-square&username=iamrajiv" />
+<!--
+![](https://visitor-badge.glitch.me/badge?page_id=vibgreon.vibgreon)
+-->
 
 Hi, I'm Vivek Venkatesh, 
 
