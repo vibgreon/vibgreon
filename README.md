@@ -39,6 +39,6 @@ I love learning and applying Machine Learning models and algorithms.
 
 
 
-| Github Stats | Github Streak |
+| Github Language Preference | Github Stats |
 |--------------|---------------|
 |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vibgreon&show_icons=true&theme=dark) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vibgreon&show_icons=true&theme=dark)  |
