@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Vivek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?color=0969da&style=flat-square&username=iamrajiv" />
+<img src="https://komarev.com/ghpvc/?color=0969da&style=flat-square&username=vibgreon" />
 <!--
 ![](https://visitor-badge.glitch.me/badge?page_id=vibgreon.vibgreon)
 -->
