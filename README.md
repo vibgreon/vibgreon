@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hey there!
+<h3>
+Hi there 👋, I'm
+<a href="https://vibgreon.herokuapp.com/">Vivek</a>
+</h3>
 
 <a href="https://www.linkedin.com/in/vibgreon/">
   <img align="left" alt="Vivek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
