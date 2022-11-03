@@ -28,7 +28,7 @@ Hi there 👋, I'm
 ![](https://visitor-badge.glitch.me/badge?page_id=vibgreon.vibgreon)
 -->
 
-Tech enthusiast who love learning and applying Machine Learning models and algorithms.
+Tech enthusiast, love learning and applying Machine Learning models and algorithms.
 
 
 <!--
