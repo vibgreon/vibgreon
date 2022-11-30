@@ -20,7 +20,7 @@ Hi there 👋, I'm
 </h3>
 
 <a href="https://www.linkedin.com/in/vibgreon/">
-  <img align="left" alt="Vivek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Vivek's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?color=0969da&style=flat-square&username=vibgreon" />
