@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h3>
 Hi there 👋, I'm
-<a href="https://vibgreon.herokuapp.com/">Vivek</a>
+<a href="">Vivek</a>
 </h3>
 lookout for my site v0.2 (will update soon)
 <!--
