@@ -29,7 +29,7 @@ lookout for my site v0.2 (will update soon)
 ![](https://visitor-badge.glitch.me/badge?page_id=vibgreon.vibgreon)
 -->
 
-Tech enthusiast, love learning and applying Machine Learning models and algorithms.
+Tech enthusiast, love designing and creative stuffs.
 
 
 <!--
