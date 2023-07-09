@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 Hi there 👋, I'm
 <a href="">Vivek</a>
 </h3>
-lookout for my site v0.2 (will update soon)
 <!--
 <a href="https://www.linkedin.com/in/vibgreon/">
   <img align="left" alt="Vivek's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />
